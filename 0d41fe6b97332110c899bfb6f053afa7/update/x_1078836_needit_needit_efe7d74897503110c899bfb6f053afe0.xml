@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_1078836_needit_needit">
+    <x_1078836_needit_needit action="INSERT_OR_UPDATE">
+        <child_id_field/>
+        <name/>
+        <number>ADD0001016</number>
+        <parent_entity/>
+        <parent_id_field/>
+        <path/>
+        <run_business_rules>true</run_business_rules>
+        <synchronize_inserts>false</synchronize_inserts>
+        <sys_class_name>x_1078836_needit_needit</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-23 10:15:38</sys_created_on>
+        <sys_id>efe7d74897503110c899bfb6f053afe0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tree" source="x_1078836_tree">0d41fe6b97332110c899bfb6f053afa7</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition/>
+        <sys_scope display_value="Tree">0d41fe6b97332110c899bfb6f053afa7</sys_scope>
+        <sys_update_name>x_1078836_needit_needit_efe7d74897503110c899bfb6f053afe0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-23 10:15:38</sys_updated_on>
+        <table/>
+    </x_1078836_needit_needit>
+</record_update>
