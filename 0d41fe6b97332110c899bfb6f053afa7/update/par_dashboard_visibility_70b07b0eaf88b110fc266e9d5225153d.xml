@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_visibility">
+    <par_dashboard_visibility action="INSERT_OR_UPDATE">
+        <dashboard display_value="Tree">74b07b0e6588b110444f43b4d04bff38</dashboard>
+        <experience display_value="Tree">b0b07b0e7e88b110226411b85ae58a39</experience>
+        <sys_class_name>par_dashboard_visibility</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-17 06:56:00</sys_created_on>
+        <sys_id>70b07b0eaf88b110fc266e9d5225153d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tree" source="x_1078836_tree">0d41fe6b97332110c899bfb6f053afa7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tree">0d41fe6b97332110c899bfb6f053afa7</sys_scope>
+        <sys_update_name>par_dashboard_visibility_70b07b0eaf88b110fc266e9d5225153d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-17 06:56:00</sys_updated_on>
+    </par_dashboard_visibility>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Location to display the ribbon</description>
+        <name>ribbonLocation</name>
+        <page display_value="Tree">b0b07b0e7e88b110226411b85ae58a39</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-17 06:56:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>bcb07b0e9188b1105c8cf5bfacef403c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ribbonLocation</sys_name>
+        <sys_package display_value="Tree" source="x_1078836_tree">0d41fe6b97332110c899bfb6f053afa7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tree">0d41fe6b97332110c899bfb6f053afa7</sys_scope>
+        <sys_update_name>sys_ux_page_property_bcb07b0e9188b1105c8cf5bfacef403c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-17 06:56:01</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1078836_tree.b0b07b0e7e88b110226411b85ae58a39.root.ribbonLocation</unique_name>
+        <value>sidebar</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=bcb07b0e9188b1105c8cf5bfacef403c"/>
+</record_update>

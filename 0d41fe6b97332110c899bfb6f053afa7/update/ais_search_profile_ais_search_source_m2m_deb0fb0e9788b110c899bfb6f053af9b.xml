@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <profile display_value="Tree search profile">f4b07b0e1988b110a3fa61b139632e3e</profile>
+        <search_source display_value="Tickets">d6b0fb0e9788b110c899bfb6f053af97</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-17 06:56:06</sys_created_on>
+        <sys_id>deb0fb0e9788b110c899bfb6f053af9b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tree search profile.Tickets</sys_name>
+        <sys_package display_value="Tree" source="x_1078836_tree">0d41fe6b97332110c899bfb6f053afa7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tree">0d41fe6b97332110c899bfb6f053afa7</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_deb0fb0e9788b110c899bfb6f053af9b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-17 06:56:06</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>

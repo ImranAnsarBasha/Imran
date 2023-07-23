@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>Tree</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-09 08:51:34</sys_created_on>
+        <sys_id>776e36e797732110c899bfb6f053afa2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tree</sys_name>
+        <sys_package display_value="Tree" source="x_1078836_tree">0d41fe6b97332110c899bfb6f053afa7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tree">0d41fe6b97332110c899bfb6f053afa7</sys_scope>
+        <sys_update_name>sys_ui_view_776e36e797732110c899bfb6f053afa2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-09 08:51:34</sys_updated_on>
+        <title>Tree</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
